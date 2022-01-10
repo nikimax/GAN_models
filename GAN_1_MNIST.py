@@ -110,5 +110,3 @@ for epoch in range(num_epochs):
                 )
                 step += 1
 
-
-
